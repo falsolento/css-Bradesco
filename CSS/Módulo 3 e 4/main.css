@@ -1,0 +1,48 @@
+/* CSS Document */
+
+a {
+   color: blue;
+}
+
+a.virtuais {
+            color: #FF0000;
+}
+
+a.estrategia {
+              color: #11CC00;
+}
+
+span.alimento {
+              color: red;
+}
+
+#insetos {
+         background: #FFEAEA;
+}
+
+#repteis {
+         background: #FFF7DD;
+}
+
+body {
+      margin-top: 100px;
+      margin-right: 40px;
+      margin-bottom: 10px;
+      margin-left: 70px;
+}
+
+/* A margem pode ser resumida dessa forma:
+body {
+margin: 100px 40px 10px 70px;
+}
+margin: top right bottom left*/
+
+h1 {
+    background: orange;
+    padding: 10px 10px 10px 30px;
+}
+
+p {
+   background: yellow;
+   padding-left: 50px;
+}

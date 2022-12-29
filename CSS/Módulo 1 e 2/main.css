@@ -1,0 +1,22 @@
+/* CSS Document */
+
+body{
+     background-color:green;
+}
+
+h1{
+   font-size:20px;
+   border: 1px solid gray;
+}
+
+h2{
+   color:red;
+}
+
+p{
+  margin-left:50px;
+}
+a:link {color:pink;}
+a:visited {color:yellow;}
+a:hover {color:black;}
+a:active {color:blue;}

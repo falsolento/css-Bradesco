@@ -1,0 +1,13 @@
+#Modulo3 {
+color: #FF0000;
+background-color: red;
+background-image:url('imagem.gif');
+font-family: arial;
+font-size: 14px;
+text-align: justify;
+margin: 10px;
+padding: 5px;
+height: 600px;
+width: 800px;
+position: absolute;
+}
